@@ -19,7 +19,7 @@
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
     <PlatformToolset>v120</PlatformToolset>
-    <CharacterSet>MultiByte</CharacterSet>
+    <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
@@ -67,10 +67,27 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="3Sum.h" />
+    <ClInclude Include="CombinationSum.h" />
+    <ClInclude Include="Divide_Two_Integers.h" />
+    <ClInclude Include="Find_First_and_Last_Position_of_Element_in_Sorted_Array.h" />
+    <ClInclude Include="First_Missing_Positive.h" />
     <ClInclude Include="FlipGame.h" />
+    <ClInclude Include="IntToRoman.h" />
+    <ClInclude Include="Jump_Game_II.h" />
+    <ClInclude Include="LetterCombinations.h" />
     <ClInclude Include="LongestPalindromicSubstring.h" />
+    <ClInclude Include="Longest_Valid_Parentheser.h" />
     <ClInclude Include="MostWater.h" />
+    <ClInclude Include="Next_Permutation.h" />
+    <ClInclude Include="Permutations.h" />
+    <ClInclude Include="Remove_NthNode_From_EndofList.h" />
+    <ClInclude Include="Rotate_Image.h" />
+    <ClInclude Include="Search_in_Rotated_Sorted_Arrayr.h" />
+    <ClInclude Include="SoDoKu.h" />
     <ClInclude Include="substring.h" />
+    <ClInclude Include="Trap_Rain_Water.h" />
+    <ClInclude Include="Wildcard_Matching.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

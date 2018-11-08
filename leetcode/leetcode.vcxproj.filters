@@ -32,5 +32,56 @@
     <ClInclude Include="LongestPalindromicSubstring.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="IntToRoman.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="3Sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterCombinations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Remove_NthNode_From_EndofList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Divide_Two_Integers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Next_Permutation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Longest_Valid_Parentheser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Find_First_and_Last_Position_of_Element_in_Sorted_Array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Search_in_Rotated_Sorted_Arrayr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoDoKu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="First_Missing_Positive.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Trap_Rain_Water.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wildcard_Matching.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Jump_Game_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Permutations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rotate_Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
